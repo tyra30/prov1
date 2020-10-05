@@ -24,7 +24,7 @@ namespace prov
             }
             else if (svar == "7")
             {
-                Console.WriteLine("Hit!");
+                Console.WriteLine("Hit!!");
             }
 
             Console.ReadLine();
